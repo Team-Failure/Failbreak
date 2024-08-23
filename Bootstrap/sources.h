@@ -23,24 +23,9 @@ Suites: ./\n\
 Components:\n\
 \n\
 Types: deb\n\
-URIs: https://apt.procurs.us/\n\
-Suites: ./\n\
-Components:\n\
-\n\
-Types: deb\n\
 URIs: https://ph0qu3-111.yourepo.com/\n\
 Suites: ./\n\
 Components:\n\
-\n\
-Types: deb\n\
-URIs: https://roothide.github.io/\n\
-Suites: ./\n\
-Components:\n\
-\n\
-Types: deb\n\
-URIs: https://roothide.github.io/procursus/\n\
-Suites: iphoneos-arm64e/%d\n\
-Components: main\n\
 "
 
 #define ALT_SOURCES "\
@@ -61,10 +46,7 @@ deb https://getzbra.com/repo/ ./\n\
 deb https://repo.chariz.com/ ./\n\
 deb https://repo.palera.in/ ./\n\
 deb https://ph0qu3-111.yourepo.com/ ./\n\
-deb https://apt.procus.us/ ./\n\
 deb https://havoc.app/ ./\n\
-deb https://roothide.github.io/procursus/ ./\n\
-deb https://roothide.github.io/ ./\n\
 \n\
 "
 
