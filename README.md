@@ -12,17 +12,17 @@ Failbreak is available to download on this repositories [Releases](https://githu
 
 You'll need MacOS to build, as you require Xcode from the App Store. Simply having Xcode Command Line Tools is *insufficient*. Here's how to build the app (also you can fork, modify and build with the workflow):
 
- 1. Update/Install Theos with roothide support
+ 1. Update/Install Theos with our Procursus support
     
     ```
-    bash -c "$(curl -fsSL https://raw.githubusercontent.com/roothide/theos/master/bin/install-theos)"
+    bash -c "$(curl -fsSL https://raw.githubusercontent.com/Team-Failure/theos/master/bin/install-theos)"
     ```
     *If you encounter errors from a previous Theos installation, remove Theos in its entirety before continuing.*
 
  2. Clone the GitHub repository and enter directory
 
     ```
-    git clone https://github.com/roothide/Bootstrap/ && cd Bootstrap
+    git clone https://github.com/Team-Failure/Failbreak/ && cd Failbreak
     ```
 
  3. Build `Bootstrap.tipa`
