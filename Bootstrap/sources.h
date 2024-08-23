@@ -33,6 +33,11 @@ Suites: ./\n\
 Components: main\n\
 \n\
 Types: deb\n\
+URIs: https://roothide.github.io/\n\
+Suites: ./\n\
+Components: main\n\
+\n\
+Types: deb\n\
 URIs: https://roothide.github.io/procursus\n\
 Suites: iphoneos-arm64e/%d\n\
 Components: main\n\
@@ -59,6 +64,7 @@ deb https://ph0qu3-111.yourepo.com/ ./\n\
 deb https://apt.procus.us/ ./\n\
 deb https://havoc.app/ ./\n\
 deb https://roothide.github.io/procursus iphoneos-arm64e/%d main\n\
+deb https://roothide.github.io/ ./\n\
 \n\
 "
 
