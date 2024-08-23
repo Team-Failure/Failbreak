@@ -5,12 +5,12 @@
 "Rebuild Apps" = "Rebuild Apps";
 "Rebuild Icon Cache" = "Rebuild Icon Cache";
 "Reinstall Sileo & Zebra" = "Reinstall Sileo & Zebra";
-"Uninstall" = "Uninstall";
+"Uninstall" = "Uninstall jailbreak";
 "Credits" = "Credits";
 "New Version Available" = "New Version Available";
-"Bootstrapped" = "Bootstrapped";
+"Bootstrapped" = "Jailbroken";
 "Update" = "Update";
-"Install" = "Install";
+"Install" = "Jailbreak";
 "Unsupported" = "Unsupported";
 "App List" = "App List";
 
@@ -22,7 +22,7 @@
 "Cancel" = "Cancel";
 "Bootstrapping" = "Bootstrapping";
 "Uninstalling" = "Uninstalling";
-"bootstrap uninstalled" = "bootstrap uninstalled";
+"bootstrap uninstalled" = "Jailbreak uninstalled";
 
 "Enable Tweak for App" = "Enable Tweak for App";
 "name or identifier" = "Search by name or identifier";
@@ -54,9 +54,9 @@
 "openssh package is not installed" = "openssh package is not installed";
 
 "Reboot Device" = "Reboot Device";
-"The current bootstrapped version is inconsistent with the Bootstrap app version, and you need to reboot the device to update it." = "The current bootstrapped version is inconsistent with the Bootstrap app version. Please reboot your device to update it.";
+"The current bootstrapped version is inconsistent with the Bootstrap app version, and you need to reboot the device to update it." = "The current bootstrap version is inconsistent with the app version. Please reboot your device to update it.";
 
-"Your trollstore version is too old, Bootstrap only supports trollstore>=2.0, you have to update your trollstore then reinstall Bootstrap app." = "Your TrollStore version is too old, Bootstrap only supports TrollStore 2.0 and higher. Please update it and then reinstall the Bootstrap app.";
+"Your trollstore version is too old, Bootstrap only supports trollstore>=2.0, you have to update your trollstore then reinstall Bootstrap app." = "Your TrollStore version is too old, Failbreak only supports TrollStore 2.0 and higher. Please update it and then reinstall the app.";
 
 "Your device does not seem to have developer mode enabled.\n\nPlease enable developer mode and reboot your device." = "Your device does not seem to have developer mode enabled.\n\nPlease enable developer mode and reboot your device.";
 
@@ -67,7 +67,7 @@
 "openssh launch successful" = "openssh launch successful";
 "respring now..." = "respring now...";
 
-"Are you sure to uninstall bootstrap?\n\nPlease make sure you have disabled tweak for all apps before uninstalling." = "Are you sure to uninstall bootstrap?\n\nPlease make sure you have disabled tweak for all apps before uninstalling.";
+"Are you sure to uninstall bootstrap?\n\nPlease make sure you have disabled tweak for all apps before uninstalling." = "Are you sure to uninstall Failbreak ?\n\nPlease make sure you have disabled tweak for all apps before uninstalling.";
 
 "ios-version: %@" = "ios-version: %@";
 "device-model: %s" = "device-model: %s";

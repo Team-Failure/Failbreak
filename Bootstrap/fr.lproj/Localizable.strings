@@ -5,12 +5,12 @@
 "Rebuild Apps" = "Reconstruire les Applications liées au jailbreak";
 "Rebuild Icon Cache" = "Reconstruire le cache des icônes";
 "Reinstall Sileo & Zebra" = "Réinstaller Sileo & Zebra";
-"Uninstall" = "Désintaller";
+"Uninstall" = "Désintaller le jailbreak";
 "Credits" = "Crédits";
 "New Version Available" = "Nouvelle Version Disponible";
 "Bootstrapped" = "Jailbreaké";
 "Update" = "Mettre à jour";
-"Install" = "Installer";
+"Install" = "Jailbreak";
 
 "Unsupported" = "Non supporté";
 "App List" = "Liste des applications";
@@ -21,7 +21,7 @@
 "Warning" = "Attention";
 "Applying" = "Application";
 "Cancel" = "Annuler";
-"Bootstrapping" = "Démarrage";
+"Bootstrapping" = "Bootstrapage";
 "Uninstalling" = "Désinstallation";
 "bootstrap uninstalled" = "Jailbreak désinstallé";
 
