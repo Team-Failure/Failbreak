@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Build Bootstrap
+    name: Build Failbreak
     runs-on: macos-14
 
     steps:
@@ -24,7 +24,7 @@ jobs:
       - name: Setup Environment
         run: echo "THEOS=~/theos" >> $GITHUB_ENV
 
-      - name: Make Bootstrap Package
+      - name: Make Package
         run: make package
 
       - name: Upload Artifact
