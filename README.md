@@ -1,18 +1,16 @@
-# roothide Bootstrap
+# Team Failure - Failbreak
 
-[![GitHub stars](https://img.shields.io/github/stars/roothide/Bootstrap?style=social)](https://github.com/roothide/Bootstrap/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Team-Failure/Failbreak?style=social)](https://github.com/Team-Failure/Failbreak/stargazers)
 
-A full featured bootstrap for iOS 15.0-17.0 A8-A17 & M1+M2 using roothide.
+A full featured bootstrap for iOS 15.0-17.0 A8-A17 & M1+M2 using our Procursus.
 
 ##### *WARNING:* By using this software, you take full responsibility for what you do with it. Any unofficial modifications to your device may cause irreparable damage. Refer to the FAQ linked in the `Usage` section for safe usage of this software.
 
-roothide Bootstrap is available to download on this repositories [Releases](https://github.com/roothide/Bootstrap/releases).
+Failbreak is available to download on this repositories [Releases](https://github.com/Team-Failure/Failbreak/releases).
 
 ## Building
 
-If you do not have access to MacOS, refer to the FAQ in the `Usage` section to build with GitHub Actions instead.
-
-You'll need MacOS to build, as you require Xcode from the App Store. Simply having Xcode Command Line Tools is *insufficient*. Here's how to build the Bootstrap:
+You'll need MacOS to build, as you require Xcode from the App Store. Simply having Xcode Command Line Tools is *insufficient*. Here's how to build the app (also you can fork, modify and build with the workflow):
 
  1. Update/Install Theos with roothide support
     
@@ -37,21 +35,23 @@ You'll need MacOS to build, as you require Xcode from the App Store. Simply havi
 
 ## Usage
 
-The roothide Bootstrap application **must** be installed with [TrollStore](https://ios.cfw.guide/installing-trollstore/). Use version `2.0.9` or later for enabling developer mode on-device.
+The Failbreak application **must** be installed with [TrollStore](https://ios.cfw.guide/installing-trollstore/). Use version `2.0.9` or later for enabling developer mode on-device.
 
-Tweaks not compiled or converted to roothide will not work out-of-the-box with roothide Bootstrap. Refer to the FAQ below on how to use roothide Patcher.
+Tweaks not compiled or converted to our Procursus will not work out-of-the-box with Failbreak. Refer to the FAQ below on how to use roothide Patcher.
 
-By design, roothide does not inject tweaks into any applications by default. To enable tweak injection into an application, press `App List` in the Bootstrap app, and enable the toggle of the application you want to inject into. Injection into `com.apple.springboard` or daemons is not possible with the roothide Bootstrap. Refer to the FAQ below on injection into `com.apple.springboard`.
+By design, our Procursus does not inject tweaks into any applications by default. To enable tweak injection into an application, press `App List` in the Failbreak app, and enable the toggle of the application you want to inject into. Injection into `com.apple.springboard` or daemons is not possible with Failbreak. Refer to the FAQ below on injection into `com.apple.springboard`.
 
-**A roothide Bootstrap FAQ** is available [here](https://github.com/dleovl/Bootstrap/blob/faq/README.md).
+**A roothide Bootstrap FAQ** is available [here](https://github.com/dleovl/Bootstrap/blob/faq/README.md). (it is the roothide Bootstrap FAQ because it is just a fork)
 
 ## Develop tweaks
 
-Both rootful and rootless tweaks aren't out-of-the-box compatible with roothide, so you'll need to develop them specifically to support it. You can refer to the developer documentation [here](https://github.com/roothide/Developer).
+Both rootful and rootless tweaks aren't out-of-the-box compatible with our Procursus, so you'll need to develop them specifically to support it. You can refer to the developer documentation [here](https://github.com/roothide/Developer).
 
 ## Discord server
 
 You can join the roothide Discord server for support or general discussion [here](https://discord.com/invite/scqCkumAYp).
+
+For moment the Team Failure's discord server is not created.
 
 ## The "Our Table" Icon
 
