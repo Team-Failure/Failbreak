@@ -2,13 +2,13 @@
 "Tweak Enable" = "Activer Tweak";
 "OpenSSH" = "OpenSSH";
 "Respring" = "Respring";
-"Rebuild Apps" = "Reconstruire les Applications";
+"Rebuild Apps" = "Reconstruire les Applications liées au jailbreak";
 "Rebuild Icon Cache" = "Reconstruire le cache des icônes";
 "Reinstall Sileo & Zebra" = "Réinstaller Sileo & Zebra";
 "Uninstall" = "Désintaller";
 "Credits" = "Crédits";
 "New Version Available" = "Nouvelle Version Disponible";
-"Bootstrapped" = "Bootstrappé";
+"Bootstrapped" = "Jailbreaké";
 "Update" = "Mettre à jour";
 "Install" = "Installer";
 
@@ -23,7 +23,7 @@
 "Cancel" = "Annuler";
 "Bootstrapping" = "Démarrage";
 "Uninstalling" = "Désinstallation";
-"bootstrap uninstalled" = "bootstrap désinstallé";
+"bootstrap uninstalled" = "Jailbreak désinstallé";
 
 "Enable Tweak for App" = "Activer les tweaks pour une app";
 "name or identifier" = "nom ou identifieur";
@@ -36,7 +36,7 @@
 "bootstrap server restart successful" = "Le serveur du boostrap a bien redémarré";
 
 "Rebuilding" = "Reconstruire";
-"Don't exit Bootstrap app until show the lock screen" = "Ne quittez pas l'application Bootstrap tant que l'écran de verrouillage n'est pas affiché";
+"Don't exit Bootstrap app until show the lock screen" = "Ne quittez pas l'application tant que l'écran de verrouillage n'est pas affiché";
 
 "bootstrap installed" = "bootstrap installé";
 "bootstrap not installed" = "bootstrap non installé";
@@ -55,9 +55,9 @@
 "openssh package is not installed" = "Le paquet openssh n'est pas installé";
 
 "Reboot Device" = "Redémarrer l'appareil";
-"The current bootstrapped version is inconsistent with the Bootstrap app version, and you need to reboot the device to update it." = "La version actuelle du bootstrap est incohérente avec la version de l'application Bootstrap, vous devez redémarrer l'appareil pour la mettre à jour.";
+"The current bootstrapped version is inconsistent with the Bootstrap app version, and you need to reboot the device to update it." = "La version actuelle du bootstrap est incohérente avec la version de l'application, vous devez redémarrer l'appareil pour la mettre à jour.";
 
-"Your trollstore version is too old, Bootstrap only supports trollstore>=2.0, you have to update your trollstore then reinstall Bootstrap app." = "Votre version de TrollStore est trop ancienne, Bootstrap ne supporte que TrollStore >= 2.0, vous devez mettre à jour TrollStore puis réinstaller l'application Bootstrap.";
+"Your trollstore version is too old, Bootstrap only supports trollstore>=2.0, you have to update your trollstore then reinstall Bootstrap app." = "Votre version de TrollStore est trop ancienne, Failbreak ne supporte que TrollStore >= 2.0, vous devez mettre à jour TrollStore puis réinstaller l'application .";
 
 "Your device does not seem to have developer mode enabled.\n\nPlease enable developer mode and reboot your device." = "Votre appareil ne semble pas avoir le mode développeur activé.\n\nVeuillez activer le mode développeur et redémarrer votre appareil.";
 
@@ -68,4 +68,4 @@
 "openssh launch successful" = "openssh démarré correctement";
 "respring now..." = "respring maintenant...";
 
-"Are you sure to uninstall bootstrap?\n\nPlease make sure you have disabled tweak for all apps before uninstalling." = "Êtes-vous sûr de vouloir désinstaller bootstrap ?\n\nAssurez-vous d'avoir désactivé les tweaks pour toutes les applications avant de le désinstaller.";
+"Are you sure to uninstall bootstrap?\n\nPlease make sure you have disabled tweak for all apps before uninstalling." = "Êtes-vous sûr de vouloir désinstaller Failbreak ?\n\nAssurez-vous d'avoir désactivé les tweaks pour toutes les applications avant de le désinstaller.";
