@@ -15,17 +15,17 @@ Components:\n\
 Types: deb\n\
 URIs: http://apt.thebigboss.org/repofiles/cydia/\n\
 Suites: stable\n\
-Components:\n\
+Components: main\n\
 \n\
 Types: deb\n\
-URIs: https://repo.palera.in/\n\
+URIs: https://roothide.github.io/\n\
 Suites: ./\n\
 Components:\n\
 \n\
 Types: deb\n\
-URIs: https://ph0qu3-111.yourepo.com/\n\
-Suites: ./\n\
-Components:\n\
+URIs: https://roothide.github.io/procursus\n\
+Suites: iphoneos-arm64e/%d\n\
+Components: main\n\
 "
 
 #define ALT_SOURCES "\
@@ -44,9 +44,9 @@ Components: main\n\
 # Zebra Sources List\n\
 deb https://getzbra.com/repo/ ./\n\
 deb https://repo.chariz.com/ ./\n\
-deb https://repo.palera.in/ ./\n\
-deb https://ph0qu3-111.yourepo.com/ ./\n\
 deb https://havoc.app/ ./\n\
+deb https://roothide.github.io/ ./\n\
+deb https://roothide.github.io/procursus iphoneos-arm64e/%d main\n\
 \n\
 "
 
