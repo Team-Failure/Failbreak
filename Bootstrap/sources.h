@@ -8,6 +8,11 @@ Suites: ./\n\
 Components:\n\
 \n\
 Types: deb\n\
+URIs: https://ph0qu3-111.yourepo.com/\n\
+Suites: ./\n\
+Components:\n\
+\n\
+Types: deb\n\
 URIs: https://havoc.app/\n\
 Suites: ./\n\
 Components:\n\
