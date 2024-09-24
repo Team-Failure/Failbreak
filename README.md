@@ -15,7 +15,7 @@ You'll need MacOS to build, as you require Xcode from the App Store. Simply havi
  1. Update/Install Theos with our Procursus support
     
     ```
-    bash -c "$(curl -fsSL https://raw.githubusercontent.com/Team-Failure/theos/master/bin/install-theos)"
+    bash -c "$(curl -fsSL https://raw.githubusercontent.com/Team-Failure/theos/refs/heads/master/bin/install-theos)"
     ```
     *If you encounter errors from a previous Theos installation, remove Theos in its entirety before continuing.*
 
