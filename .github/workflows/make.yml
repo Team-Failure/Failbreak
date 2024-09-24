@@ -19,7 +19,7 @@ jobs:
           submodules: true
 
       - name: Install Theos sdk (Team Failure Procursus patched)
-        run: bash -c "$(curl -fsSL https://raw.githubusercontent.com/Team-Failure/theos/refs/heads/master/bin/install-sdk latest)"
+        run: bash -c "$(curl -fsSL https://raw.githubusercontent.com/Team-Failure/theos/refs/heads/master/bin/install-sdk <latest>)"
 
       - name: Install Theos (Team Failure Procursus patched)
         run: bash -c "$(curl -fsSL https://raw.githubusercontent.com/Team-Failure/theos/refs/heads/master/bin/install-theos)"
