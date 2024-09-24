@@ -19,10 +19,10 @@ jobs:
           submodules: true
 
       - name: Install Theos sdk (Team Failure Procursus patched)
-        run: bash -c "$(curl -fsSL https://raw.githubusercontent.com/team-failure/theos/master/bin/install-sdk)"
+        run: bash -c "$(curl -fsSL https://raw.githubusercontent.com/Team-Failure/theos/refs/heads/master/bin/install-sdk)"
 
       - name: Install Theos (Team Failure Procursus patched)
-        run: bash -c "$(curl -fsSL https://raw.githubusercontent.com/team-failure/theos/master/bin/install-theos)"
+        run: bash -c "$(curl -fsSL https://raw.githubusercontent.com/Team-Failure/theos/refs/heads/master/bin/install-theos)"
 
       - name: Setup Environment
         run: echo "THEOS=~/theos" >> $GITHUB_ENV
